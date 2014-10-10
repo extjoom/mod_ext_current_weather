@@ -7,12 +7,14 @@ You can find ID of the city here http://xml.weather.co.ua/1.2/city/?search=Mosco
 
 <strong>Features:</strong>
 
- - Joomla 2.5.x - Joomla 3.x
- - Temperature
- - Cloud
- - Wind
- - Humidity
- - Atmosphere pressure
+<ol>
+<li>Joomla 2.5.x - Joomla 3.x</li>
+<li>Temperature</li>
+<li>Cloud</li>
+<li>Wind</li>
+<li>Humidity</li>
+<li>Atmosphere pressure</li>
+</ol>
  
  Live Demo - http://www.ext-joom.com/en/extensions/ext-current-weather-module.html
 
